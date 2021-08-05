@@ -1,4 +1,4 @@
-❮ ❮ 𝐁𝐘 𝐏𝐀𝐓𝐎 ❯ ❯
+❮ ❮ DIEGO MOD ❯ ❯
 
 ➤Comandos
 
@@ -8,9 +8,9 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/Mr-Pato/self-bot
+git clone https://github.com/Diego18-coder/Bot-Pato-edit
 
-cd self-bot
+cd Bot-Pato-edit
 
 bash install.sh
 
@@ -29,6 +29,6 @@ npm start
 
 ➤Para volverlo a activar en caso de cerrar wsp web o cambiar de número
 
-cd self-bot
+cd Bot-Pato-edit
 rm session.json
 npm start y escaneas 
